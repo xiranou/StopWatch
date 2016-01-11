@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9BF6D6E51C443F860023E39B"
-               BuildableName = "Navigation Bar.app"
-               BlueprintName = "Navigation Bar"
-               ReferencedContainer = "container:Navigation Bar.xcodeproj">
+               BuildableName = "StopWatch.app"
+               BlueprintName = "StopWatch"
+               ReferencedContainer = "container:StopWatch.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9BF6D6F91C443F860023E39B"
-               BuildableName = "Navigation BarTests.xctest"
-               BlueprintName = "Navigation BarTests"
-               ReferencedContainer = "container:Navigation Bar.xcodeproj">
+               BuildableName = "StopWatch.xctest"
+               BlueprintName = "StopWatchTests"
+               ReferencedContainer = "container:StopWatch.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9BF6D7041C443F870023E39B"
-               BuildableName = "Navigation BarUITests.xctest"
-               BlueprintName = "Navigation BarUITests"
-               ReferencedContainer = "container:Navigation Bar.xcodeproj">
+               BuildableName = "StopWatch.xctest"
+               BlueprintName = "StopWatchUITests"
+               ReferencedContainer = "container:StopWatch.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BF6D6E51C443F860023E39B"
-            BuildableName = "Navigation Bar.app"
-            BlueprintName = "Navigation Bar"
-            ReferencedContainer = "container:Navigation Bar.xcodeproj">
+            BuildableName = "StopWatch.app"
+            BlueprintName = "StopWatch"
+            ReferencedContainer = "container:StopWatch.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BF6D6E51C443F860023E39B"
-            BuildableName = "Navigation Bar.app"
-            BlueprintName = "Navigation Bar"
-            ReferencedContainer = "container:Navigation Bar.xcodeproj">
+            BuildableName = "StopWatch.app"
+            BlueprintName = "StopWatch"
+            ReferencedContainer = "container:StopWatch.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9BF6D6E51C443F860023E39B"
-            BuildableName = "Navigation Bar.app"
-            BlueprintName = "Navigation Bar"
-            ReferencedContainer = "container:Navigation Bar.xcodeproj">
+            BuildableName = "StopWatch.app"
+            BlueprintName = "StopWatch"
+            ReferencedContainer = "container:StopWatch.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
